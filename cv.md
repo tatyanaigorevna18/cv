@@ -1,14 +1,16 @@
 **Kolbasnikova Tatyana**
 
-Student
+*Student*
+
+![my photo](https://github.com/tatyanaigorevna18/cv1/blob/markdown-cv/uufQhn3A17zPPwN7OBBVtwBSRqsu2uPu6UTWlQpTgE2W_UtC2a2ga7-IMKSmy3OhyJ7JLEBMCJeP6H2G2vx5qLHi.jpg)
 
 **Contact information:**
 
 *Phone:+37533627638*
 
-*E-mail:tk.taniy@gmail.com*
+*E-mail: tk.taniy@gmail.com*
 
-*Telegram:@tatyana_igorevna18*
+*Telegram: @tatyana_igorevna18*
 
 
 **Briefly About Myself**
@@ -19,15 +21,15 @@ I consider myself a hardworking person, I learn quickly,very communication perso
 
 **Skills:**
 
-C++
+* C++
 
-HTML
+* HTML
 
-Adobe Photoshop
+* Adobe Photoshop
 
-Excel,Microsoft Access
+* Excel,Microsoft Access
 
-GitHub
+* GitHub
 
 **Code example:**
 ```bsl
@@ -69,9 +71,19 @@ int main() {
   system("pause");
   return 0;
 }
-
-
-
-
-
 ```
+
+**Languages:**
+
+- Belarusian
+
+- Russian
+
+- English
+
+*Follow my work on GitHub* *https://github.com/tatyanaigorevna18 🥰 🤫 😏*
+
+
+
+
+
