@@ -1,2 +1,2 @@
 # cv1
- https://tatyanaigorevna18.github.io/cv1/cv.md
+ https://tatyanaigorevna18.github.io/cv1/cv
