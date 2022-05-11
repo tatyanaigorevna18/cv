@@ -1,1 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 
+* {
+    box-sizing: border-box;
+  }
+
+body{
+    font-family: 'Macondo', cursive;
+    background-color: rgb(135, 202, 222);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+section{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .section-profile-logo{
+      width: 500px;
+      height: 700px;
+      border-radius: 50%;
+  }
+  .section-profile{
+      display: flex;
+      flex-direction: row;
+      gap: 100px;
+  }
+  .section-profile-title{
+      text-align: center;
+      margin-top: 200px;
+  }
