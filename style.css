@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
-
 * {
     box-sizing: border-box;
   }
 
 body{
-    font-family: 'Macondo', cursive;
-    background-color: rgb(135, 202, 222);
+    font-family: 'Tapestry', cursive;
+    background-color:rgb(229, 131, 226);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -23,13 +22,102 @@ section{
       width: 500px;
       height: 700px;
       border-radius: 50%;
+      margin-left: 100px;
   }
   .section-profile{
       display: flex;
       flex-direction: row;
       gap: 100px;
+      font-size: 50px;
   }
   .section-profile-title{
       text-align: center;
       margin-top: 200px;
   }
+  .section-subtitle {
+    font-size:30px;
+    color: rgb(59, 16, 16);
+    font-weight: 700px;
+    letter-spacing: 4px;
+    line-height: 50px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.main-title{
+    color: rgb(59, 16, 16);
+    font-size: 40px;
+    font-weight: 300;
+  
+    line-height: 50px;
+    margin-bottom: 20px;
+    padding: 0;
+    position: relative;
+    word-spacing: 3px;
+    margin-left:50px;
+
+}
+
+.footer-container{
+    background-attachment: fixed;
+    display: flex;
+    background-color: rgb(234, 49, 163);
+    font-size: 20px;
+}
+.header-container{
+    background-color: rgb(184, 103, 166)
+    
+}
+.section{
+    background-color:rgb(184, 103, 166);
+}
+
+.section#contacts.section {  
+    width: calc(50% - 43px);  
+    margin-right: 40%;
+}
+.section#Information.section {
+    padding: 30px 30px 30px;
+    width: calc(50% - 43px);
+    margin-left: 52%;
+    
+}
+.section#skills.section {
+    padding: 10px 10px 35px;
+    width: calc(50% - 43px);
+    margin-right: 50%;
+}
+.section#code.section {
+
+    padding: 10px 5px 20px;
+    width: calc(50% - 43px);
+    margin-left: 53%;
+    
+}
+h2{
+    text-align: center;
+font-style: italic;
+
+    }
+
+.nav-list{
+    display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style: none;
+
+}
+.nav-item{
+    font-size: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+a{
+    text-decoration: none;
+    color: darkslateblue;
+    font-style: normal;
+
+}
+
+
+
+
